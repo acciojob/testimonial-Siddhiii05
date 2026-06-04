@@ -7,6 +7,6 @@ main{
 .container{
 	background-color:white;
 	padding:10px;
-	border-color:black;
+	border-style:groove;
 }
 
